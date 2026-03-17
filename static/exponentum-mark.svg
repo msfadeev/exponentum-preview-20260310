@@ -1,0 +1,9 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="18" y="18" width="220" height="220" rx="10" stroke="#ECEDEF" stroke-width="6"/>
+  <path d="M42 42H102V57H57V115H99V130H57V184H102V199H42V42Z" fill="#ECEDEF"/>
+  <path d="M105 42H121L136 112L151 42H167L148 128L167 214H151L136 144L121 214H105L124 128L105 42Z" fill="#ECEDEF"/>
+  <path d="M177 42H205C221 42 232 52 232 67V84C232 99 221 109 205 109H192V199H177V42ZM192 57V94H204C212 94 217 90 217 82V69C217 61 212 57 204 57H192Z" fill="#ECEDEF"/>
+  <rect x="177" y="113" width="55" height="86" fill="#ECEDEF"/>
+  <rect x="104" y="184" width="52" height="15" fill="#ECEDEF"/>
+  <rect x="42" y="184" width="60" height="15" fill="#ECEDEF"/>
+</svg>
